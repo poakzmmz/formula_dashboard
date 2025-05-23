@@ -1,0 +1,5 @@
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/model/Model.cpp:18:7:long int map(long int, long int, long int, long int, long int)	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/model/Model.cpp:38:1:Model::Model()	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/model/Model.cpp:139:5:int get_Oiltemp()	3
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/model/Model.cpp:154:5:int get_Watertemp()	3
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/model/Model.cpp:67:6:void Model::tick()	5

@@ -1,0 +1,609 @@
+{
+  "Application": {
+    "Screens": [
+      {
+        "Name": "Screen1",
+        "CanvasBufferSize": 12000,
+        "Components": [
+          {
+            "Type": "Box",
+            "Name": "background_black",
+            "Width": 800,
+            "Height": 480
+          },
+          {
+            "Type": "Line",
+            "Name": "line1",
+            "Width": 800,
+            "Height": 480,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "StartX": 300.0,
+            "StartY": 340.0,
+            "EndX": 300.0,
+            "EndY": 80.0,
+            "LineWidth": 1.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line2",
+            "Width": 800,
+            "Height": 480,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "StartX": 500.0,
+            "StartY": 340.0,
+            "EndX": 500.0,
+            "EndY": 80.0,
+            "LineWidth": 1.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line3",
+            "Width": 800,
+            "Height": 480,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "StartY": 105.0,
+            "EndX": 800.0,
+            "EndY": 105.0,
+            "LineWidth": 1.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line4",
+            "Width": 800,
+            "Height": 480,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "StartY": 340.0,
+            "EndX": 800.0,
+            "EndY": 340.0,
+            "LineWidth": 1.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line5",
+            "Width": 800,
+            "Height": 480,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "StartY": 210.0,
+            "EndX": 300.0,
+            "EndY": 210.0,
+            "LineWidth": 1.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line6",
+            "Width": 800,
+            "Height": 480,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "StartX": 500.0,
+            "StartY": 210.0,
+            "EndX": 800.0,
+            "EndY": 210.0,
+            "LineWidth": 1.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line7",
+            "Width": 800,
+            "Height": 480,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "StartY": 80.0,
+            "EndX": 800.0,
+            "EndY": 80.0,
+            "LineWidth": 1.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line8",
+            "Width": 800,
+            "Height": 480,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "StartY": 365.0,
+            "EndX": 800.0,
+            "EndY": 365.0,
+            "LineWidth": 1.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line9",
+            "Width": 800,
+            "Height": 480,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "StartX": 400.0,
+            "StartY": 480.0,
+            "EndX": 400.0,
+            "EndY": 340.0,
+            "LineWidth": 1.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line10",
+            "Width": 800,
+            "Height": 480,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "StartX": 200.0,
+            "StartY": 480.0,
+            "EndX": 200.0,
+            "EndY": 340.0,
+            "LineWidth": 1.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line11",
+            "Width": 800,
+            "Height": 480,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "StartX": 600.0,
+            "StartY": 480.0,
+            "EndX": 600.0,
+            "EndY": 340.0,
+            "LineWidth": 1.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line12",
+            "Width": 800,
+            "Height": 480,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "StartY": 235.0,
+            "EndX": 300.0,
+            "EndY": 235.0,
+            "LineWidth": 1.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "Line",
+            "Name": "line13",
+            "Width": 800,
+            "Height": 480,
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "StartX": 500.0,
+            "StartY": 235.0,
+            "EndX": 800.0,
+            "EndY": 235.0,
+            "LineWidth": 1.0,
+            "LineEndingStyle": "Round"
+          },
+          {
+            "Type": "TextArea",
+            "Name": "Gear_text",
+            "X": 372,
+            "Y": 81,
+            "Width": 56,
+            "Height": 24,
+            "TextId": "__SingleUse_8UM2",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "rpm_text",
+            "X": 629,
+            "Y": 81,
+            "Width": 44,
+            "Height": 24,
+            "TextId": "__SingleUse_IC86",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "spd_text",
+            "X": 631,
+            "Y": 211,
+            "Width": 40,
+            "Height": 24,
+            "TextId": "__SingleUse_RBA9",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "oil_text",
+            "X": 84,
+            "Y": 342,
+            "Width": 33,
+            "Height": 24,
+            "TextId": "__SingleUse_LA13",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "water_text",
+            "X": 265,
+            "Y": 342,
+            "Width": 71,
+            "Height": 24,
+            "TextId": "__SingleUse_HL8X",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "Lap_text",
+            "X": 105,
+            "Y": 81,
+            "Width": 90,
+            "Height": 24,
+            "TextId": "__SingleUse_VC3H",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "Lap_text_1",
+            "X": 112,
+            "Y": 211,
+            "Width": 76,
+            "Height": 24,
+            "TextId": "__SingleUse_1XAB",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "Gear_stat",
+            "X": 345,
+            "Y": 91,
+            "Width": 111,
+            "Height": 202,
+            "TextId": "__SingleUse_U7IV",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_0W1A",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "N_stat",
+            "X": 328,
+            "Y": 91,
+            "Width": 144,
+            "Height": 202,
+            "Visible": false,
+            "TextId": "__SingleUse_A2L4",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "Rpm",
+            "X": 511,
+            "Y": 92,
+            "Width": 280,
+            "Height": 101,
+            "TextId": "__SingleUse_LOKH",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_Z4F3",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "Spd",
+            "X": 567,
+            "Y": 221,
+            "Width": 168,
+            "Height": 101,
+            "TextId": "__SingleUse_X9E5",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_KK41",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "Oil",
+            "X": 16,
+            "Y": 362,
+            "Width": 168,
+            "Height": 101,
+            "TextId": "__SingleUse_NX5V",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_OE6Y",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "Water",
+            "X": 216,
+            "Y": 362,
+            "Width": 168,
+            "Height": 101,
+            "TextId": "__SingleUse_5NCV",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_8IFD",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "Laptime_realtime",
+            "X": 3,
+            "Y": 116,
+            "Width": 295,
+            "Height": 67,
+            "TextId": "__SingleUse_Y40W",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_S2XC",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "Laptime_previous",
+            "X": 3,
+            "Y": 240,
+            "Width": 295,
+            "Height": 67,
+            "TextId": "__SingleUse_PFP7",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_6O34",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          },
+          {
+            "Type": "TextArea",
+            "Name": "Sd_detect",
+            "X": 735,
+            "Y": 10,
+            "Width": 54,
+            "Height": 24,
+            "TextId": "__SingleUse_1Q0Y",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true
+          },
+          {
+            "Type": "TextArea",
+            "Name": "P_temp",
+            "X": 697,
+            "Y": 10,
+            "Width": 22,
+            "Height": 24,
+            "TextId": "__SingleUse_PP9J",
+            "TextRotation": "0",
+            "Color": {
+              "Red": 255,
+              "Green": 255,
+              "Blue": 255
+            },
+            "AutoSize": true,
+            "Wildcard1": {
+              "TextId": "__SingleUse_4EB9",
+              "UseBuffer": true,
+              "BufferSize": 10
+            }
+          }
+        ],
+        "Interactions": []
+      }
+    ],
+    "CustomContainerDefinitions": [],
+    "Name": "formula_optimized",
+    "Resolution": {
+      "Width": 800,
+      "Height": 480
+    },
+    "SelectedColorDepth": 24,
+    "StartupScreenName": "Screen1",
+    "SelectedStartupLanguage": "GB",
+    "TouchGfxPath": "../Middlewares/ST/touchgfx",
+    "UIPath": ".",
+    "AvailableColorDepths": [
+      24
+    ],
+    "AvailableLCDs": {
+      "16": "LCD16bpp",
+      "24": "LCD24bpp"
+    },
+    "AvailableSections": [
+      "ExtFlashSection",
+      "IntFlashSection"
+    ],
+    "AvailableResolutions": [
+      {
+        "Width": 800,
+        "Height": 480
+      }
+    ],
+    "PhysicalButtons": [],
+    "FrameworkFeatures": {
+      "LCD24bpp": {
+        "Id": "LCD24bpp",
+        "IsEnabled": true
+      }
+    },
+    "GenerateAssetsCommand": "make -f simulator/gcc/Makefile assets -j8",
+    "PostGenerateCommand": "touchgfx update_project --project-file=simulator/msvs/Application.vcxproj",
+    "PostGenerateTargetCommand": "touchgfx update_project",
+    "CompileSimulatorCommand": "make -f simulator/gcc/Makefile -j8",
+    "RunSimulatorCommand": "build\\bin\\simulator.exe",
+    "CompileTargetCommandOverride": "make -f ../../gcc/Makefile -j8",
+    "FlashTargetCommandOverride": "make -f ../../gcc/Makefile flash",
+    "FlashTargetIntCommandOverride": "make -f ../../gcc/Makefile intflash",
+    "LandscapeSkinX": 0,
+    "LandscapeSkinY": 0,
+    "PortraitSkinX": 0,
+    "PortraitSkinY": 0,
+    "DisplayOrientation": "Landscape",
+    "Family": "STM32H7",
+    "SubFamily": "STM32H747/757",
+    "Toolchain": "STM32CubeIDE",
+    "Platform": "m7",
+    "ProjectFile": "../../STM32H747I-DISCO.ioc",
+    "OptionalComponentsRoot": "../Middlewares/ST/touchgfx_components",
+    "OptionalComponents": [],
+    "AdditionalFeatures": [
+      "CWRVector",
+      "VectorFonts",
+      "Video"
+    ]
+  },
+  "Version": "4.24.2",
+  "CreatedBy": "4.24.2"
+}

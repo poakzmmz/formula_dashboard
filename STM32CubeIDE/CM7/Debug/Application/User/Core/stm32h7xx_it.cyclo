@@ -1,0 +1,14 @@
+C:/Users/junseok/Desktop/formula_dashboard/CM7/Core/Src/stm32h7xx_it.c:80:6:NMI_Handler	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/Core/Src/stm32h7xx_it.c:95:6:HardFault_Handler	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/Core/Src/stm32h7xx_it.c:110:6:MemManage_Handler	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/Core/Src/stm32h7xx_it.c:125:6:BusFault_Handler	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/Core/Src/stm32h7xx_it.c:140:6:UsageFault_Handler	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/Core/Src/stm32h7xx_it.c:155:6:DebugMon_Handler	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/Core/Src/stm32h7xx_it.c:175:6:ADC_IRQHandler	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/Core/Src/stm32h7xx_it.c:190:6:TIM4_IRQHandler	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/Core/Src/stm32h7xx_it.c:204:6:TIM6_DAC_IRQHandler	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/Core/Src/stm32h7xx_it.c:218:6:LTDC_IRQHandler	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/Core/Src/stm32h7xx_it.c:232:6:DMA2D_IRQHandler	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/Core/Src/stm32h7xx_it.c:246:6:JPEG_IRQHandler	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/Core/Src/stm32h7xx_it.c:260:6:MDMA_IRQHandler	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/Core/Src/stm32h7xx_it.c:275:6:DSI_IRQHandler	1

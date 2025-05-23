@@ -1,0 +1,6 @@
+C:/TouchGFXProjects/formula_optimized/CM4/Core/Src/main.c:77:5:main	2
+C:/TouchGFXProjects/formula_optimized/CM4/Core/Src/main.c:141:6:PeriphCommonClock_Config	2
+C:/TouchGFXProjects/formula_optimized/CM4/Core/Src/main.c:168:13:MX_SDMMC1_SD_Init	2
+C:/TouchGFXProjects/formula_optimized/CM4/Core/Src/main.c:197:13:MX_MDMA_Init	1
+C:/TouchGFXProjects/formula_optimized/CM4/Core/Src/main.c:211:13:MX_GPIO_Init	1
+C:/TouchGFXProjects/formula_optimized/CM4/Core/Src/main.c:250:6:Error_Handler	1

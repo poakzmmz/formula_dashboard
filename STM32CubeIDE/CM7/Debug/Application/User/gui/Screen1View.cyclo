@@ -1,0 +1,18 @@
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:14:6:virtual void Screen1View::tearDownScreen()	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:67:6:virtual void Screen1View::p_temp(int)	1
+../../CM7/../../CM7/TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:11:13:Screen1View::~Screen1View()	1
+../../CM7/../../CM7/TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:11:13:virtual Screen1View::~Screen1View()	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:4:1:Screen1View::Screen1View()	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:165:6:void getRGBFromTemp(int, uint8_t&, uint8_t&, uint8_t&)	4
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:9:6:virtual void Screen1View::setupScreen()	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:19:6:virtual void Screen1View::setGears(int)	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:25:6:virtual void Screen1View::setNstate(bool)	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:33:6:virtual void Screen1View::setADC_2(int)	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:46:6:virtual void Screen1View::setADC_3(int)	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:55:6:virtual void Screen1View::sd_state(bool)	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:61:6:virtual void Screen1View::setRPM(int)	1
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:72:6:virtual void Screen1View::updateprevtime(int)	4
+C:/Users/junseok/Desktop/formula_dashboard/CM7/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:120:6:virtual void Screen1View::updateStopwatch(int)	4
